@@ -19,8 +19,3 @@ npm run dev
 ## 💾 Arquivos
 
 O arquivo `Insomnia_2024_02_13.json`, na raiz do projeto, é para a importação das rotas desta API no Insomnia.
-
-
-## 🔁 Versão
-
-Atualizado em 13/02/2024
